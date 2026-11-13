@@ -1,0 +1,8 @@
+[2026-11-12 21:31:07] Inicio del sistema
+[2026-11-12 21:31:07] ERROR al conectar con el servidor
+[2026-11-12 21:31:07] Usuario inicio sesión
+[2026-11-12 21:31:07] ERROR: archivo no encontrado
+[2026-11-12 21:50:07] Inicio del sistema
+[2026-11-12 21:50:07] ERROR al conectar con el servidor
+[2026-11-12 21:50:07] Usuario inicio sesión
+[2026-11-12 21:50:07] ERROR: archivo no encontrado
